@@ -8,3 +8,9 @@ title: "My Research Software"
 version: 2.0.4
 doi: 10.5281/zenodo.1234
 date-released: 2021-08-11
+
+
+
+$ git add .
+$ git commit -m "Add existing file"
+$ git push origin your-branch
